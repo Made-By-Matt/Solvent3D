@@ -1,0 +1,10 @@
+#Pointers Blocks
+Some addresses to note!
+
+94b900efdd803d63 <-- Basic UI icons
+
+7aaa4401867f42cd - Defines the Make File UI
+35d6a486d3bd394b - UI Elements for Text
+0c002bcab0ba1c75 - UI Icon Solo (X, Y, Rotation, Size,
+  icon.file - This
+  gui.
