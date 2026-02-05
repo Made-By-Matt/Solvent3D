@@ -1,5 +1,8 @@
 # My Notes
 
+Edit Adress
+  The formula is Address# - 1 x 2 +2
+
 Element: Main Bar
   Main bar holds all of the data that is called to to make the dropdowns in all main bar buttons
   Example:
