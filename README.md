@@ -2,7 +2,7 @@
   <img width="658" height="92" alt="image" src="https://github.com/user-attachments/assets/55334c77-489c-49cb-813d-b8931e02e5d4" />
 </p>
 
-# Glue3D
+# Solvent3D
 
 **Solvent** is a QOL Modded client of G3D with extra Imports and Keybind changes with more to Come
 
