@@ -8,12 +8,20 @@
 
 If youd like to contribute please make a pull request with what you changed and how you did! You will be credited in the Repo ReadMe
 
+## Things to note
+
+Solvent3D is a modded client built off of droplets utils 2.2 with new aditions and a mod editor
+
+> [!CAUTION]
+> Solvent3D has a builtin updater mod when the updater is ran it will delete you project SO BE CAREFUL!!!
+
 ### Resources
 
 - **Offical Website**: [glue3d.net](https://glue3d.net/)
+- **Droplets utils** [Itch.ios page](https://droplets21.itch.io/droplet-utils)
 - **Forum**: [forum.glue3d.net](https://forum.glue3d.net/)
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
-- **Discord**: [Join the Discord]([https://discord.gg/JvNJ3cFz])
+- **Discord**: [Join the Discord](https://discord.gg/JvNJ3cFz)
   
 ## Getting Started
 
