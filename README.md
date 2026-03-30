@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="658" height="92" alt="image" src="https://github.com/user-attachments/assets/55334c77-489c-49cb-813d-b8931e02e5d4" />
+  <img width="658" height="92" alt="image" src="https://github.com/user-attachments/assets/55334c77-489c-49cb-813d-b8931e02e5d4](https://raw.githubusercontent.com/Made-By-Matt/Solvent3D/refs/heads/main/solvent.png" />
 </p>
 
 # Solvent3D
