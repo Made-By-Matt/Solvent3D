@@ -1,6 +1,6 @@
 # Solvdater
 
-**Solvdater** Is a auto update mod for Solvent
+**Solvdater** Is a auto update mod for Solvent this branch is for pushing updates on it
 
 ### Resources
 
@@ -9,10 +9,6 @@
 - **My Personal Youtube**: [Check out my youtube!](https://www.youtube.com/@Stickedy)
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
 - **Discord**: [Join the Discord](https://discord.gg/JvNJ3cFz)
-  
-## Getting Started
-
-PLACEHOLDER
 
 ## Things to Note
 
