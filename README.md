@@ -4,9 +4,16 @@
 
 # Solvent3D
 
-**Solvent** is a QOL Modded client of G3D with extra Imports and Keybind changes with more to Come
+**Solvent** is a QOL Modded client of G3D built off of droplets utils
 
-If youd like to contribute please make a pull request with what you changed and how you did! You will be credited in the Repo ReadMe
+# What does it add?
+
+Mod Support
+Keybinds
+Functions
+VS Support
+Slight Optimization (Hey a frame or two is nice!!)
+...And ofc more to come...
 
 ## Things to note
 
@@ -18,7 +25,7 @@ Solvent3D is a modded client built off of droplets utils 2.2 with new aditions a
 ### Resources
 
 - **Offical Website**: [glue3d.net](https://glue3d.net/)
-- **Droplets utils** [Itch.ios page](https://droplets21.itch.io/droplet-utils)
+- **Droplets utils** [Itch.io page](https://droplets21.itch.io/droplet-utils)
 - **Forum**: [forum.glue3d.net](https://forum.glue3d.net/)
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
 - **Discord**: [Join the Discord](https://discord.gg/JvNJ3cFz)
