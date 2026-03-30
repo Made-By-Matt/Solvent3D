@@ -13,7 +13,7 @@ If youd like to contribute please make a pull request with what you changed and 
 Solvent3D is a modded client built off of droplets utils 2.2 with new aditions and a mod editor
 
 > [!CAUTION]
-> Solvent3D has a builtin updater mod when the updater is ran it will delete you project SO BE CAREFUL!!!
+> Solvent3D has a built-in updater mod when the updater is ran it will delete you project SO BE CAREFUL!!!
 
 ### Resources
 
