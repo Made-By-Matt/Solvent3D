@@ -6,14 +6,14 @@
 
 **Solvent** is a QOL Modded client of G3D built off of droplets utils
 
-# What does it add?
+## What does it add?
 
-Mod Support
-Keybinds
-Functions
-VS Support
-Slight Optimization (Hey a frame or two is nice!!)
-...And ofc more to come...
+- Mod Support
+- Keybinds
+- Functions
+- VS Support
+- Slight Optimization (Hey a frame or two is nice!!)
+- ...And ofc more to come...
 
 ## Things to note
 
