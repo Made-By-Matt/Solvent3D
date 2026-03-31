@@ -1,6 +1,6 @@
 # Solvdater
 
-**Solvdater** Is a auto update mod for Solvent this branch is for pushing updates on it
+**Solvdater** Is a update manager mod for Solvent this branch is for pushing updates on it
 
 ### Resources
 
@@ -8,14 +8,6 @@
 - **Forum**: [forum.glue3d.net](https://forum.glue3d.net/)
 - **My Personal Youtube**: [Check out my youtube!](https://www.youtube.com/@Stickedy)
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
-- **Discord**: [Join the Discord](https://discord.gg/JvNJ3cFz)
-
-## Things to Note
-
-> [!CAUTION]
->This mod will update your project to the most recent pushed version on this github page and will **DELETE** any project you are working on in that .sb3.
-
-You can find my tutorial on how to use, make, and build your own support for this mod. 
 
 ## Credits
 
